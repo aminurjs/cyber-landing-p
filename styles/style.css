@@ -163,35 +163,35 @@ footer{
     justify-content: start;
     gap: 300px;
 }
-.f_cont{
+.footer_area .f_cont{
     width: 50%;
 }
-.f_cont h2{
+.footer_area .f_cont h2{
     color: #F8F8F8;
     font-size: 45px;
     font-weight: 700;
     margin-bottom: 20px;
 }
-.f_cont p{
+.footer_area .f_cont p{
     color: #FFF;
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 25px;
 }
-.f_cont p a{
+.footer_area .f_cont p a{
     color: #FFF;
     font-size: 16px;
     line-height: 26px;
     text-decoration: none;
 }
-.f_cont ul{
+.footer_area .f_cont ul{
     display: flex;
     gap: 20px;
 }
-.f_cont ul li{
+.footer_area .f_cont ul li{
     list-style: none;
 }
-.f_cont ul li a{
+.footer_area .f_cont ul li a{
     text-decoration: none;
     display: inline-block;
     width: 46px;
@@ -202,13 +202,13 @@ footer{
     font-size: 24px;
 }
 
-.f_cont ul li a .fa-facebook-f{
+.footer_area .f_cont ul li a .fa-facebook-f{
     color: #006AFF;
 }
-.f_cont ul li a .fa-twitter{
+.footer_area .f_cont ul li a .fa-twitter{
     color: #1DA1F2;
 }
-.f_cont ul li a .fa-youtube{
+.footer_area .f_cont ul li a .fa-youtube{
     color: #FF0000;
 }
 .subscribe{
